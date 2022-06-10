@@ -1,6 +1,6 @@
 # Telegram bot "U Baby Tary"
 
-Small entertainment bot, that gives funny advice and says something interesting about you based on your birth date.
+Small entertainment bot that gives funny advice and says something interesting about you based on your birth date.
 
 Bot is hosted on Heroku and it was created using pyTelegramBotAPI.
 
