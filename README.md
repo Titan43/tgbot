@@ -1,4 +1,4 @@
-# Telegram bot "U Babi Tary"
+# Telegram bot "U Babu Tary"
 
 Small entertainment bot that gives funny advice and says something interesting about you based on your birth date.
 
